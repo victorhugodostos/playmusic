@@ -1,3 +1,5 @@
 # playmusic
-Microservices inspirado no Spotify com Spring Cloud e Kafka
-Desenvolvido juntamento com o professor Marcelo Souza
+Microservices inspirado no Spotify com Spring Cloud e Kafka.
+
+
+Desenvolvido juntamente com o professor Marcelo Souza.
